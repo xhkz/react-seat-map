@@ -1,8 +1,10 @@
-/* add css styles here (optional) */
+.map {
+  min-width: 640px;
+  min-height: 480px;
+}
 
-.test {
-  display: inline-block;
-  margin: 2em auto;
-  border: 2px solid #000;
-  font-size: 2em;
+.mapContainer {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #000;
 }

@@ -1,6 +1,6 @@
 import ExampleComponent from './'
 
-describe('ExampleComponent', () => {
+describe('SeatMapComponent', () => {
   it('is truthy', () => {
     expect(ExampleComponent).toBeTruthy()
   })
