@@ -2,7 +2,10 @@
 
 > react interactive seat map component
 
-[![NPM](https://img.shields.io/npm/v/react-seat-map.svg)](https://www.npmjs.com/package/@xhkz/react-seat-map) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@xhkz/react-seat-map.svg)](https://www.npmjs.com/package/@xhkz/react-seat-map) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+## Online Demo
+https://xinit.me/react-seat-map/
 
 ## Install
 
